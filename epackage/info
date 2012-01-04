@@ -1,0 +1,25 @@
+Package: egg
+Section: extensions
+License: GPL-3+
+Depends: emacs (>= 22)
+Status: unmaintained
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: <byplayer100@gmail.com>
+Upstream-Bugs:
+Vcs-Type: git
+Vcs-Url: git://github.com/byplayer/egg.git
+Vcs-Browser: https://github.com/byplayer/egg
+Homepage:
+Wiki: http://www.emacswiki.org/emacs/Git
+Commentary:
+X-Development
+  The original code at <https://github.com/byplayer/egg>
+  is no longer maintainer (2009).
+Description: git interface fork of magit
+ This is fork of Marius's excellent magit. See
+ <http://www.emacswiki.org/emacs/Git>. Commnds provided
+ include:
+    M-x egg-status
+    M-x egg-grep
