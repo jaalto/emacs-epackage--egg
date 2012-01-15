@@ -110,4 +110,4 @@
 (autoload 'egg-next-action                      "egg" "" t)
 (autoload 'egg-file-log-pickaxe                 "egg" "" t)
 (autoload 'egg-minor-mode                       "egg" "" t)
-(provide 'egg-epkg-install)
+(provide 'egg-epackage-install)

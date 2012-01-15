@@ -49,4 +49,4 @@ Sets `compilation-last-buffer' and `compilation-window-height'.
 \(fn LEVEL)" t nil)
 
 ;;;***
-(provide 'egg-epkg-0loaddefs)
+(provide 'egg-epackage-0loaddefs)

@@ -338,4 +338,4 @@
 (autoload 'egg-section-at                       "egg" "" nil)
 (autoload 'egg-file-name-at                     "egg" "" nil)
 (autoload 'egg-buffer-help-echo                 "egg" "" nil)
-(provide 'egg-epkg-autoloads)
+(provide 'egg-epackage-autoloads)
